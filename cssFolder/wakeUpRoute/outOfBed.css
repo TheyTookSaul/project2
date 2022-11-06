@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color : white
+}
+
+h3 {
+    text-align: center;
+    color : white;
+}
+
+div {
+    text-align : center;
+    font-size: x-large;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+
+body {
+    background-size:cover;
+    background-image: url("../../images/master-bedroom-in-new-luxury-home-with-chandelier-and-large-bank-of-windows-with-view-of-trees-1222623844-212940f4f89e4b69b6ce56fd968e9351.jpg");
+}

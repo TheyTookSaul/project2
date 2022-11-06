@@ -1,0 +1,14 @@
+* {
+    box-sizing:border-box;
+  }
+  
+  body {
+    background: rgb(197, 84, 84);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  .game-container canvas {
+    image-rendering: pixelated;
+  }
