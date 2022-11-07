@@ -17,4 +17,6 @@ div {
 
 body {
     background-image: url("../../images/PMXWxMcWeey79A37tTivrL.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
 }

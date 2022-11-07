@@ -17,4 +17,6 @@ div {
 
 body {
     background-image: url("../../images/artworks-kJK3FybZbnpcdB9y-zfmVMQ-t500x500.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
 }

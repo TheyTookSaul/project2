@@ -16,6 +16,7 @@ div {
   }
 
 body {
-    background-size:cover;
     background-image: url("../../images/master-bedroom-in-new-luxury-home-with-chandelier-and-large-bank-of-windows-with-view-of-trees-1222623844-212940f4f89e4b69b6ce56fd968e9351.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
 }
